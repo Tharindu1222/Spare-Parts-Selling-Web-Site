@@ -1,0 +1,10 @@
+create table product(
+	id int AUTO_INCREMENT PRIMARY KEY,
+	description varchar(255),
+	image varchar(255),
+	price double
+);
+
+insert into product(description,image,price)values
+('exhaust1','image/exhaust/1.jpg',14000),
+('exhaust2','image/exhaust/2.jpg',16000);

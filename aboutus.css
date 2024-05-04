@@ -1,0 +1,25 @@
+body {
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    scroll-padding-top: lrem;
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+  h1 {
+    font-size: 4em;
+    font-weight: bold;
+  }
+  
+  img {
+    width: 100%;
+  }
+  .about
+  {
+    align-items: center;
+    font-size: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
